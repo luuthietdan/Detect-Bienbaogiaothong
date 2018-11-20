@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <tabs>
+        <tab
+            id="@+id/tab_favorites"
+            icon="@drawable/america"
+            title="Favorites" />
+        <tab
+            id="@+id/tab_nearby"
+            icon="@drawable/vietnamese"
+            title="Nearby" />
+        <tab
+            id="@+id/tab_friends"
+            icon="@drawable/stop"
+            title="Friends" />
+    </tabs>
+</PreferenceScreen>

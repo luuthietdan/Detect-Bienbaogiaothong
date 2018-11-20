@@ -1,0 +1,15 @@
+???
+   No standing here
+   No truck
+   No parking here
+   Press your horn
+   Walker only
+   Straight forward only
+   Narrow road
+   Train crossway
+   Turn left/right only
+   Turn right only
+   Turn left only
+   Rudimentary vehicles
+   Minimal speeed
+   Roundabout ahead
